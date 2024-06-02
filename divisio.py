@@ -4,6 +4,6 @@ divisor = int(input("Entra el divisor: "))
 
 quocient = dividend//divisor
 residu = dividend % divisor
-print("Divisió: {dividend}/{divisor}")
-print("Quocient: {quocient}")
-print("Residu: {residu}")
+print(f"Divisió: {dividend}/{divisor}")
+print(f"Quocient: {quocient}")
+print(f"Residu: {residu}")
